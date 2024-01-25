@@ -12,6 +12,9 @@ I am taking part in the 100 Days of Frontend challenge to enhance my skills, sol
 - **Objective:** Improve and expand your knowledge in front-end development.
 - **Areas of Focus:** HTML, CSS, JavaScript, Frontend Frameworks, Responsive Design, and more.
 
+## Accessing Problem Statements
+To access the problem statements of these challenges, go to codedamn 100 Days of Frontend Challenge.
+
 ## How to Participate
 
 1. Fork this repository.
